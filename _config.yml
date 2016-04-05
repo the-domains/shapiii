@@ -1,0 +1,28 @@
+name: shapiii
+favicon: null
+layout_spectrum: 0.12854209425859153
+typography_spectrum: 0.7938949661329389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7688885272946209
+  lightness: 0.036858791252598166
+  saturation: 0.6165938742924482
+  rhythmicContrast: 0.17124532628804445
+purpose: []
